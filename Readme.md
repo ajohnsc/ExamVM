@@ -1,11 +1,12 @@
 # Exam VM
 
 This is a simple ExamVM using vagrant this is the needed resources:
- Resources | Size 
- --- | --- 
- vCPU | 1 
- Ram | 1024MB 
- Disk | 100GB 
+
+|Resources|Size|
+|---|---|
+|vCPU|1|
+|Ram|1024MB|
+|Disk|100GB|
 
 Also you need to install the following:
 
